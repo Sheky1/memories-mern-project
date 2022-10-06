@@ -1,6 +1,6 @@
 # Memories Mern Project
 
-Full stack MERN project for creating memories cards
+Full stack MERN project for creating memories cards. The project was build after watching the [Full Stack MERN Project - Build and Deploy an App | React + Redux, Node, Express, MongoDB](https://www.youtube.com/watch?v=aibtHnbeuio&ab_channel=JavaScriptMastery) video.
 
 ![Homepage](./homepage.png)
 
